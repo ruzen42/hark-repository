@@ -1,2 +1,2 @@
 #!/bin/bash
-echd "hi"
+touch /etc/rfetch.conf
